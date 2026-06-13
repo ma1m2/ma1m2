@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 Карточка профиля:  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma1m2&theme=dark)
 
-Статистика профиля:  
-![Svetlana's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ma1m2&theme=dark)  
-
-Статистика языков в репозиториях:  
+![Svetlana's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ma1m2&theme=dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma1m2&theme=dark)  
 
 :fire:**Streak Stats**  
