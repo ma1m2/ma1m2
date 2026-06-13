@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 ![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1m2&show_icons=true&theme=transparent)
 ![Svetlana's github stats](https://github-readme-stats.vercel.app/api?username=ma1m2&show_icons=true&theme=radical)
 
+:fire:**Streak Stats**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ma1m2&theme=dark)](https://git.io/streak-stats) 
+
+:fire:**Streak Stats**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ma1m2)](https://git.io/streak-stats)
+
