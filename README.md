@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Карточка профиля:  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma1m2&theme=dark)
 
-![Svetlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1m2&show_icons=true&theme=transparent)
-![Svetlana's github stats](https://github-readme-stats.vercel.app/api?username=ma1m2&show_icons=true&theme=radical)
+Статистика профиля:  
+![Svetlana's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ma1m2&theme=dark)  
+
+Статистика языков в репозиториях:  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ma1m2&theme=dark)  
 
 :fire:**Streak Stats**  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ma1m2&theme=dark)](https://git.io/streak-stats) 
 
-:fire:**Streak Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ma1m2)](https://git.io/streak-stats)
-
+Данные по коммитам за сутки:  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ma1m2&theme=dark)
